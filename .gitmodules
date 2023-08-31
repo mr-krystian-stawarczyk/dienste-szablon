@@ -1,0 +1,3 @@
+[submodule "sanity-studio"]
+    path = sanity-studio
+   url = https://github.com/mr-krystian-stawarczyk/dienste-szablon.git
